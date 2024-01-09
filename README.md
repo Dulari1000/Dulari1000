@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulari1000&label=Profile%20views&color=0e75b6&style=flat" alt="dulari1000" /> </p>
 ---
-- 🔭 I’m currently working on **Test**
+- 🔭 I’m currently studying at **SLIIT**
 
 - 🌱 I’m currently learning **Mern Stack**
 
