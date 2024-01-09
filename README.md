@@ -1,3 +1,7 @@
+<p align="center">
+<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+ <p/>
+
 <h1 align="center">Hi 👋, I'm Dulari Nisansala</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
