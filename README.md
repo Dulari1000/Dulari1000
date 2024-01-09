@@ -26,3 +26,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulari1000&show_icons=true&locale=en&layout=compact" alt="dulari1000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dulari1000&" alt="dulari1000" /></p>
+
+| ![Dulari's github stats](https://github-readme-stats.vercel.app/api?username=Dulari1000&show_icons=true&theme=tokyonight) | ![Dulari's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dulari1000&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulari1000&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Dulari1000&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
