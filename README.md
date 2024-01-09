@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 📫 How to reach me **dularinisansala@gmail.com**
+- 📫 How to reach me **dularinisansal@gmail.com**
 
 - ⚡ Fun fact **Call me as Dula**
 
